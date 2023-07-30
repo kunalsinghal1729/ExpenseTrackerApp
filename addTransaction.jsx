@@ -1,5 +1,5 @@
 import React, {useState, useContext} from "react";
-import { GlobalContext } from "../context/GlobalState";
+import { GlobalContext } from "/GlobalState";
 function AddTransaction()
 {
     const {addTransactions} = useContext(GlobalContext);
