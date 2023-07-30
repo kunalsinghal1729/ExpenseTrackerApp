@@ -1,10 +1,10 @@
 import React from "react";
-import Header from "./components/Header.jsx";
-import Balance from "./components/Balance.jsx";
-import Inc_exp from "./components/Inc-exp.jsx";
-import TransactionsList from "./components/TransactionsList.jsx";
-import AddTransaction from "./components/addTransaction.jsx";
-import {GlobalProvider} from "./context/GlobalState.js";
+import Header from "./Header.jsx";
+import Balance from "./Balance.jsx";
+import Inc_exp from "./Inc-exp.jsx";
+import TransactionsList from "./TransactionsList.jsx";
+import AddTransaction from "./addTransaction.jsx";
+import {GlobalProvider} from "./GlobalState.js";
 
 function App() {
   return (
